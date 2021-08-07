@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
- 🖐🏻 Hello! I’m Alexis Cesar<br>
+ <img src="images/hi.gif"><br><br>
  👀 I’m interested in software development<br>
  📚 Systems analysis and development student<br>
  🌱 I’m currently learning everything 😅<br>
