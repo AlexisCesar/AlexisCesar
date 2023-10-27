@@ -7,8 +7,8 @@
 <div align="top">
         <h2>About me?</h2>
         <p>💙 I love to code</p>
-        <p>📚 Systems analysis and development student</p>
-        <p>🌱 I’m currently learning everything 😅</p>
+        <p>📚 Systems analysis and development technologist</p>
+        <p>🌱 I’m currently learning microservices architecture 🚀</p>
 </div>
 
 <div align="right">
